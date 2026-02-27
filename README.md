@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Matvey
 
-<!--
-**matviimatvey-ux/matviimatvey-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Frontend Developer | Building Modern Web Interfaces
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about Frontend Development  
+- 🎯 Focused on Responsive & Clean UI  
+- 🌍 Based in Turkey  
+- 🔎 Open to Remote Junior Frontend Opportunities  
+
+---
+
+## 🛠 Tech Stack
+
+HTML • CSS • JavaScript • Git • GitHub • Responsive Design • Flexbox • CSS Grid  
+
+---
+
+## 📂 Featured Projects
+
+### 🛍 E-commerce Landing Page
+Modern responsive landing page built with HTML5 & CSS3  
+
+### ☕ Modern Coffee Website
+Clean UI website using Flexbox & CSS Grid  
+
+---
+
+## 📫 Contact
+
+📧 matviimatvey@gmail.com  
+
+---
+
+⭐ Always improving. Always building.
