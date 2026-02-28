@@ -1,37 +1,37 @@
-# Hi 👋, I'm Matvey
+# hi, I'm Matvey
 
 ### Junior Frontend Developer | Building Modern Web Interfaces
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Passionate about Frontend Development  
-- 🎯 Focused on Responsive & Clean UI  
-- 🌍 Based in Turkey  
-- 🔎 Open to Remote Junior Frontend Opportunities  
+-  Passionate about Frontend Development  
+-  Focused on Responsive & Clean UI  
+-  Based in Turkey  
+-  Open to Remote Junior Frontend Opportunities  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 HTML • CSS • JavaScript • Git • GitHub • Responsive Design • Flexbox • CSS Grid  
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🛍 E-commerce Landing Page
+### E-commerce Landing Page
 Modern responsive landing page built with HTML5 & CSS3  
 
-### ☕ Modern Coffee Website
+###  Modern Coffee Website
 Clean UI website using Flexbox & CSS Grid  
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 matviimatvey@gmail.com  
+ matviimatvey@gmail.com  
 
 ---
 
-⭐ Always improving. Always building.
+ Always improving. Always building.
